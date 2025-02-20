@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: Errata
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Updates en verbeteringen bij het book
   - title: Training
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Nodig ons uit voor trainingen en lezingen
   - title: Over ons
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Hoe zijn we hier gekomen
 ---
 
