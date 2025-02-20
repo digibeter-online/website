@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "DigiBeter"
   text: "Het boek en meer..."
-  tagline: My great project tagline
+  tagline: Data, processen en systemen in de zorg
   actions:
     - theme: brand
       text: Markdown Examples
