@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Errata
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Updates en veranderingen 
   - title: Trainingen 
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Over ons 
