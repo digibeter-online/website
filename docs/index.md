@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "DigiBeter"
   text: "Het boek en meer..."
-  tagline: Een boek is nooit klaar en daarom hebben we deze website
+  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,19 +13,13 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
-    - theme: brand
-      text: Errata
-      link: /errata.md
-
 
 features:
-  - title: Errata
-    details: Updates en veranderingen 
-  - title: Trainingen 
+  - title: Leuk
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Over ons 
+  - title: Interessant
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Voor docenten
-    details: Voor wie het boek wil gebruiken in het onderwijs 
+  - title: Mooi
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
