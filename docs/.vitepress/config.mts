@@ -16,8 +16,8 @@ export default defineConfig({
       {
         text: 'En meer',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'De auteurs', link: '/auteurs' },
+          { text: 'Bestellen', link: '/bestellen' }
         ]
       }
     ],
