@@ -8,15 +8,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'De auteurs', link: '/auteurs' }
+      { text: 'De auteurs', link: '/auteurs' },
+      { text: 'Bestellen', link: '/bestellen'}
     ],
 
     sidebar: [
       {
-        text: 'Meer',
+        text: 'En meer',
         items: [
-          { text: 'Auteurs', link: '/auteurs' },
-          { text: 'Bestellen', link: 'bestellen' }
+          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
