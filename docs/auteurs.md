@@ -11,7 +11,17 @@ revalidatie- en kinderverpleegkundige alsmede als senior-adviseur in een topklin
 
 
 Aan het boek hebben de volgende experts mee gewerkt: 
-<ul>
-    <li>First item</ul>
-    <li>Second item</li>
-</ul>
+- Ramon van Alteren - Group Product Manager Cyber Security - Spotify
+- Reinier Battenberg - Independent software developer 
+- René Ceelen - Directeur TestMonitor.nl
+- Paul Epping - Executive coach
+- Evelyn Finnema – Professor Nursing and Education – University of Groningen
+- Bas van Gils - Professor Data Management - Antwerp Management School 
+- Marco Huygen - Chief Information and Digital Officer - IDEWE
+- Arjan de Jager - Independent data consultant 
+- Gert Koelewijn - Productmanager Nictiz, kennisinstituut voor ICT in de zorg
+- Hans Mulder - Professor Enterprise Engineering - Antwerp Management School
+- Patrick de Rooij - Adviseur Raad van Bestuur Mijzo
+- Regina The - Algemeen directeur Zorgkeuzelab
+- Thomas Timmers - Mede-oprichter Interactive Studios
+- Debbie Vervoort-Krol - Wijkverpleegkundige
