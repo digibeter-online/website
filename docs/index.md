@@ -4,18 +4,22 @@ layout: home
 
 hero:
   name: "DigiBeter"
+
+
   text: "Het boek en meer..."
-  tagline: Een boek is nooit klaar en daarom hebben we deze website
+
+  tagline: "Een boek is nooit klaar"
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
     - theme: brand
       text: Errata
       link: /errata.md
+    - theme: brand
+      text: Training 
+      link: /training
+    - theme: brand
+      text: Docenten
+      link: /docenten
+
 
 
 features:
