@@ -34,9 +34,9 @@ features:
 ---
 
 ## Aanbeveling door Prof. dr. Evelyn Finnema 
-Hoogleraar Verplegingswetenschap & Onderwijs UMCG en lector verpleegkunde Hanzehogeschool en NHL Stenden hogeschool, Chief Nursing Officer, Ministerie van Volksgezondheid, Welzijn en Sport 
+_Hoogleraar Verplegingswetenschap & Onderwijs UMCG en lector verpleegkunde Hanzehogeschool en NHL Stenden hogeschool, Chief Nursing Officer, Ministerie van Volksgezondheid, Welzijn en Sport_
 
- 
+
 
 Technologie en digitalisering doen op steeds meer terreinen intrede in de gezondheidszorg en zijn een onmisbaar onderdeel van de zorg. En de verwachting is dat dit de komende jaren alleen nog maar gaat toenemen. Niet alleen vanuit het oogpunt van arbeidsmarktvraagstukken en de bemensbaarheid van de zorg, maar ook in relatie tot kwaliteit en continuïteit van zorg.  
 
