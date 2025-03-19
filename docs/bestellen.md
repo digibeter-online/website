@@ -8,4 +8,4 @@ Het boek Digibeter: data, processen en systemen is uitgegeven bij Van Haren Publ
 
 Het boek is te bestellen via de online boekwinkel van [Van Haren Publishing](https://www.vanharen.store/standards/books). 
 
-Als het boek wilt gebruiken voor trainingen in je instelling of in het onderwijs op het HBO of de universiteit, neem dan eerst contact op met de auteurs om te bespreken welke mogelijkheden er zijn. 
+Als je het boek wilt gebruiken voor trainingen in je instelling of in het onderwijs op het HBO of de universiteit, neem dan eerst contact op met de auteurs om te bespreken welke mogelijkheden er zijn. 
