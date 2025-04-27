@@ -11,7 +11,7 @@ Victor is per email bereikbaar op: victor@mis4d.com
 Vera is Hogeschooldocent verpleegkunde en gezondheidswetenschapper. Eerder werkte ze als
 revalidatie- en kinderverpleegkundige alsmede als senior-adviseur in een topklinisch ziekenhuis en bij een ouderenzorginstelling. Ze is lid van de redactieraad van ICT&health.
 
-Vera is per email bereikbaar op: vmc.molenaar@avans.nl
+Vera is per email bereikbaar op: vmc.molenaar@gmail.com
 
 ## Experts
 
