@@ -33,6 +33,28 @@ features:
     details: Updates en veranderingen
 ---
 
+## Over de inhoud
+
+Op steeds meer terreinen in de gezondheidszorg zijn technologie en digitalisering een belangrijke bepalende factor geworden, en vaak ook onmisbaar. Toch worden zorgprofessionals nog maar mondjesmaat betrokken bij de ontwikkeling van nieuwe systemen of systeemverbeteringen.
+De auteurs van dit boek houden een pleidooi voor het betrokken zijn van de zorgprofessionals in het hele traject van ontwikkeling naar implementatie van zorgtechnologie. Voorwaardelijk hiervoor is dat zorgprofessionals kennis hebben van de wereld van technologie. In dit boek wordt op een begrijpelijke manier uitleg gegeven over informatiesystemen, data in de zorg, proces- en systeemverbetering, softwareontwikkeling. Maar ook data-ethiek en de rol van gebruikers komen aan de orde.
+Dit boek is geschikt voor alle zorgprofessionals die meer eigenaarschap en zeggenschap willen nemen voor de digitalisering in de zorg en willen participeren in digitale vernieuwing. Het bestaat uit een afwisseling van theorie, casuïstiek en opdrachten en kan worden gebruikt in opleidingen en de dagelijkse praktijk van zorgprofessionals.
+
+## Ervaringen met Digibeter 
+>Het boek geeft je inzicht over de opbouw en werking van digitale structuren waarin je stapsgewijs wordt meegenomen. Je maakt kennis met de mogelijkheden en beperkingen van deze structuren, en leert
+digitale verbanden te leggen waar je vooraf geen weet van hebt.
+Claudia Cools – verpleegkundige Mijzo
+
+>Digibeter is in zijn opzet innoverend, prikkelend en uitnodigend. De kennis die ik heb opgedaan gebruik ik nog dagelijks bij het uitvoeren van mijn werkzaamheden als hbo-verpleegkundige.
+Lotte de Boer - verpleegkundige GGZ WNB
+
+>DigiBeter daagt je uit om kennis te maken met de inzichten van de digitale wereld rondom jouw werkveld. Je leert de processen te begrijpen die nodig zijn voor jouw ontwikkeling als professional en hoe je jouw werkveld hierin meeneemt.
+Corrina Heemsbergen - verpleegkundige GGZ-E
+
+>Digibeter is uniek en heeft mij echt een kijkje in andermans keuken gegeven. De specifieke kennis en de toepassing in mijn eigen werkveld hebben verrassende inzichten gegeven.
+Debbie Krol - wijkverpleegkundige Thebe
+
+
+
 ## Prof. dr. Evelyn Finnema - voorwoord
 > Technologie en digitalisering doen op steeds meer terreinen intrede in de gezondheidszorg en zijn een onmisbaar onderdeel van de zorg. En de verwachting is dat dit de komende jaren alleen nog maar gaat toenemen. Niet alleen vanuit het oogpunt van arbeidsmarktvraagstukken en de bemensbaarheid van de zorg, maar ook in relatie tot kwaliteit en continuïteit van zorg.  
 
