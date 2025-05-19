@@ -54,8 +54,8 @@ Corrina Heemsbergen - verpleegkundige GGZ-E
 Debbie Krol - wijkverpleegkundige Thebe
 
 
-
-## Prof. dr. Evelyn Finnema - voorwoord
+## Voorwoord
+## Prof. dr. Evelyn Finnema
 > Technologie en digitalisering doen op steeds meer terreinen intrede in de gezondheidszorg en zijn een onmisbaar onderdeel van de zorg. En de verwachting is dat dit de komende jaren alleen nog maar gaat toenemen. Niet alleen vanuit het oogpunt van arbeidsmarktvraagstukken en de bemensbaarheid van de zorg, maar ook in relatie tot kwaliteit en continuïteit van zorg.  
 
 > Daarom doen Victor van Reijswoud en Vera Molenaar een pleidooi voor het meenemen van de zorgprofessionals in het hele traject van ontwikkeling naar implementatie van zorgtechnologie. Voorwaardelijk hiervoor is dat zorgprofessionals meer kennis hebben over technologische innovatie. Want de wereld van technologie en de wereld van de gezondheidszorg raken weliswaar steeds meer in elkaar verweven, maar beide domeinen versterken elkaar (nog) niet in alle gevallen optimaal. Een uitgangspunt dat in het boek Digibeter wordt uitgewerkt door het geven van zorgprofessionals een inkijk in de wereld van technologie: van onder andere informatiesystemen, datagedreven zorg, datamodellering, proces- en systeemverbetering, softwareontwikkeling tot data ethiek en de rol van gebruikers. Een boek dat een overzicht geeft van heel veel aspecten die spelen bij het implementeren van technologie in de zorg en moeten bijdragen aan ICT-adoptie door zorgprofessionals.   
