@@ -7,6 +7,6 @@
   "dependencies": {
     "@datagouv/vitepress-plugin-matomo": "^1.0.5",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.13"
+    "vue": "^3.5.39"
   }
 }
